@@ -137,7 +137,7 @@ $(document).ready(function() {
                     text: textConfig.text11,
                     confirmButtonColor: "#83d0c9",
                     onClose: () => {
-                        window.location = "https://phamvanda123.github.io/trang-web/temp/index.html";
+                        window.location = "https://www.facebook.com/profile.php?id=100017241884390";
                     },
                 });
             }
